@@ -1,0 +1,9 @@
+Model Outputs using Cross Validation
+
+1. Decision Tree
+    Mean: 4.090213275474744
+    Standard Deviation: 0.7721650715459282
+    
+2. Linear Regression
+    Mean: 5.008365334107223
+    Standard Deviation: 1.0574087662387173
