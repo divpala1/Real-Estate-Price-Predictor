@@ -12,3 +12,8 @@ Models used:-
 -> Linear Regressor  
 -> Decision Tree Regressor  
 -> Random Forest Regressor  
+  
+The main project file is named 'Real Estate ML Project.ipynb'. Then the model is exported to a .joblib type file.  
+The 'Model usage.ipynb' is a guide on how to use the model in python script.
+
+Thank you
